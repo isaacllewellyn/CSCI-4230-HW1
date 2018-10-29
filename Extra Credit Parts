@@ -1,0 +1,6 @@
+10.12 E7(2,1) = y2 = x3 +2x + 1 mod 7. 
+ Find all points on E7(2,1). 
+1^2 = 0^3 + 2*0 + 1 mod 7 = 1 = on EC
+2^2 = 1^3 + 2*1 + 1 mod 7 = 4 = on EC
+5^2 = 1^3 + 2*1 + 1 mod 7 = 4 = on EC
+6^2 = 0^3 + 2*0 + 1 mod 7 = 1 = on EC
